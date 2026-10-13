@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1a66fd4ce455bb813fbd84c6",
+  "owner": "urjypeggv",
+  "repo": "page-882a7f6dc49189dda3ce8f87",
+  "title": "TG号购买",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "882a7f6dc49189dda3ce8f87",
+      "a": "TG号购买",
+      "b": "",
+      "entity": "TG号购买",
+      "brand": "TG号购买",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1b87eb5328d1a321f81556217b5999795b82ffe2b4a379a0dec9d026548e6eff",
+      "content": {
+        "keyword1": "TG号购买",
+        "keyword2": "",
+        "primary_entity": "TG号购买",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TG号购买提供专业Telegram账号购买和VPN网络加速服务，月付流量包，支持多设备在线，官网直达客户端下载。",
+          "AI_DESCRIPTION": "TG号购买提供专业Telegram账号购买和VPN网络加速服务，月付流量包，支持多设备在线，官网直达客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #F5F5DC;\n            --primary: #228B22;\n            --accent: #4CAF50;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n            background: var(--bg);\n            color: #333;\n        }\n        header {\n            background: linear-gradient(to right, #228B22, #32CD32);\n            color: white;\n            padding: 1rem 0;\n            text-align: center;\n        }\n        h1 {\n            font-size: 2.8rem;\n            margin: 0;\n        }\n        nav {\n            display: flex;\n            justify-content: center;\n            gap: 1rem;\n            margin-top: 1rem;\n        }\n        nav a {\n            color: white;\n            text-decoration: none;\n            padding: 0.5rem 1rem;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem;\n        }\n        section {\n            margin-bottom: 3rem;\n            padding: 2rem;\n            border-radius: 8px;\n        }\n        .intro {\n            background: #E8F5E9;\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n            align-items: center;\n        }\n        .intro-text {\n            order: 1;\n        }\n        .intro-text h2 {\n            color: #228B22;\n        }\n        @media (max-width: 768px) {\n            .intro {\n                grid-template-columns: 1fr;\n            }\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 2rem;\n        }\n        .plan {\n            background: white;\n            padding: 2rem;\n            border-radius: 8px;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n        }\n        .plan.featured {\n            border: 3px solid #228B22;\n            transform: scale(1.05);\n        }\n        .plan.featured::before {\n            content: \"推荐\";\n            position: absolute;\n            top: -10px;\n            right: 20px;\n            background: #228B22;\n            color: white;\n            padding: 0.25rem 1rem;\n            border-radius: 50px;\n        }\n        .plan h3 {\n            color: #228B22;\n            margin-top: 0;\n        }\n        .plan .price {\n            font-size: 1.5rem;\n            color: #333;\n        }\n        .features {\n            list-style: none;\n            padding: 0;\n        }\n        .features li {\n            padding: 0.5rem 0;\n            display: flex;\n            align-items: center;\n        }\n        .features li:before {\n            content: \"✓\";\n            color: #228B22;\n            margin-right: 0.5rem;\n        }\n        .usage {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\n            gap: 1.5rem;\n        }\n        .usage-card {\n            background: #F5F5DC;\n            padding: 1.5rem;\n            border-radius: 8px;\n        }\n        .usage-card h3 {\n            color: #228B22;\n        }\n        .faq {\n            display: flex;\n            flex-direction: column;\n            gap: 1rem;\n        }\n        details {\n            background: white;\n            padding: 1.5rem;\n            border-radius: 8px;\n        }\n        details summary {\n            font-weight: bold;\n            color: #228B22;\n            cursor: pointer;\n            font-size: 1.1rem;\n        }\n        details summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #228B22;\n            color: white;\n            text-align: center;\n            padding: 1.5rem;\n        }\n        button {\n            background: #228B22;\n            color: white;\n            border: none;\n            padding: 0.75rem 1.5rem;\n            border-radius: 4px;\n            cursor: pointer;\n            font-size: 1rem;\n            text-decoration: none;\n            display: inline-block;\n        }\n        button:hover {\n            background: #32CD32;\n        }\n        .download-buttons {\n            display: flex;\n            justify-content: center;\n            gap: 1rem;\n            flex-wrap: wrap;\n        }\n        .download-buttons a {\n            background: #228B22;\n            color: white;\n            border: none;\n            padding: 0.75rem 1.5rem;\n            border-radius: 4px;\n            cursor: pointer;\n            font-size: 1rem;\n            text-decoration: none;\n        }\n        .download-buttons a:hover {\n            background: #32CD32;\n        }\n    </style>\n\n\n    <header>\n        <h1>TG号购买</h1>\n        <nav>\n            <a href=\"#plans\">套餐选择</a>\n            <a href=\"#faq\">常见问题</a>\n            <a href=\"#usage\">使用指南</a>\n            <a href=\"#download\">客户端下载</a>\n        </nav>\n    </header>\n    <main>\n        <section class=\"intro\">\n            <div class=\"intro-text\">\n                <h2>安全稳定的Telegram账号加速服务</h2>\n                <p>欢迎来到TG号购买官网！我们提供高质量的Telegram账号购买服务，帮助您轻松解锁全球网络内容。通过我们的账号加速方案，您可以实现VPN网络加速、流媒体解锁和游戏加速优化。</p>\n                <p>无论您是个人用户还是企业团队，我们的TG号购买都为您提供专业支持。选择合适的客户端下载，开启您的加速之旅。</p>\n            </div>\n            <div>\n                <h3>客户端选择</h3>\n                <p>我们提供多种客户端选项，支持Windows、Mac、iOS和Android设备。</p>\n                <a href=\"#download\">立即下载客户端</a>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>我们的套餐选择</h2>\n            <p>根据您的需求选择适合的套餐，享受稳定的网络加速体验。</p>\n            <div class=\"plans\">\n                <div class=\"plan\">\n                    <h3>基础版</h3>\n                    <p class=\"price\">¥15/月 <span>按年付仅需 ¥150/年</span></p>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>旗舰版</h3>\n                    <p class=\"price\">¥35/月 <span>按年付仅需 ¥350/年</span></p>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan\">\n                    <h3>团队版</h3>\n                    <p class=\"price\">¥85/月 <span>按年付仅需 ¥850/年</span></p>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section id=\"usage\">\n            <h2>使用场景与操作说明</h2>\n            <div class=\"usage\">\n                <div class=\"usage-card\">\n                    <h3>个人用户</h3>\n                    <p>选择基础版或旗舰版，轻松解锁YouTube、Netflix等流媒体内容，实现全球访问。</p>\n                </div>\n                <div class=\"usage-card\">\n                    <h3>游戏玩家</h3>\n                    <p>使用旗舰版IPLC专线，优化游戏延迟，享受稳定连接。</p>\n                </div>\n                <div class=\"usage-card\">\n                    <h3>企业团队</h3>\n                    <p>团队版提供专属节点和客户经理，满足企业级需求。</p>\n                </div>\n            </div>\n            <p>操作步骤：</p>\n            <ol>\n                <li>选择适合您的套餐</li>\n                <li>完成支付</li>\n                <li>获取您的Telegram账号信息</li>\n                <li>下载并安装客户端</li>\n                <li>连接节点，开始加速体验</li>\n            </ol>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>选择适合您的设备，下载稳定客户端，开启TG号加速之旅。</p>\n            <div class=\"download-buttons\">\n                <a href=\"#\">Windows 下载</a>\n                <a href=\"#\">Mac 下载</a>\n                <a href=\"#\">iOS 下载</a>\n                <a href=\"#\">Android 下载</a>\n            </div>\n            <p>所有客户端均经过安全测试，提供实时更新。</p>\n        </section>\n        <section class=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>1. 如何购买TG号购买服务？</summary>\n                    <p>很简单！访问我们的官网，选择您喜欢的套餐，完成在线支付，即可获得您的Telegram账号加速信息。我们支持多种支付方式，包括信用卡、支付宝和微信支付。</p>\n                </details>\n                <details>\n                    <summary>2. TG号购买与VPN加速有什么区别？</summary>\n                    <p>我们的服务结合了Telegram账号的优势，提供VPN网络加速和流媒体解锁功能。通过高质量的账号，您可以获得更稳定的连接和更高的解锁率。</p>\n                </details>\n                <details>\n                    <summary>3. 支持哪些设备和平台？</summary>\n                    <p>我们的客户端支持Windows、Mac、iOS、Android等多种设备。您可以根据需求选择最适合的客户端下载。</p>\n                </details>\n                <details>\n                    <summary>4. 如何使用加速器？</summary>\n                    <p>下载客户端后，注册账号，连接节点池中的线路，即可开始网络加速。支持一键连接，操作简单。</p>\n                </details>\n                <details>\n                    <summary>5. 售后服务和支持如何？</summary>\n                    <p>我们提供7x24在线支持，旗舰版及以上套餐有专属工单通道和客户经理。问题通常在24小时内得到解决。</p>\n                </details>\n                <details>\n                    <summary>6. 退款政策是什么？</summary>\n                    <p>我们提供30天无理由退款政策。如果您对服务不满意，请在购买后30天内联系我们，我们会尽快为您处理。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 TG号购买 所有权利保留</p>\n        <p>官网：<a href=\"#\">https://tghao.com</a></p>\n    </footer>\n\n",
+          "hash": "4e8735756df8d35a3e20f654e286697133b4243e9a5ef99ce45887e1e9e4be70",
+          "seo": {
+            "title": "TG号购买 - 安全Telegram账号加速VPN客户端下载官网",
+            "keywords": "TG号购买,telegram账号加速,vpn加速器,机场订阅,客户端下载",
+            "description": "TG号购买提供专业Telegram账号购买和VPN网络加速服务，月付流量包，支持多设备在线，官网直达客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jfpwdec.cn",
+    "host": "p-371a303d3c.jfpwdec.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b5abcf400e504fe51ed1b60c93cf2296d0d5f6d14c54d62a53bac0de7a57aa10",
+    "sitemap.xml": "ec42817019fa0508e1dbfc619c53e55b45e74421f74026f4ec1862b68b3707ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c2d462d6c8007b7f624210aa5c685fa6fbe6ad4f1b1c127b3cc99893894b9e50",
+    "robots.txt": "587135fd8e9fff85afa45d488618dcf4af9ceab08dd414fe8dde43902c80ebd0",
+    "1092e022a65dc2f0b44af3c1afaaa9f8.txt": "581502f9e310fa618c6a0ddbdc833e043650a38edd98913aedbe2db6fb43c061"
+  },
+  "revision": "f95c370c9567055230ba0d26033b7ca7b1ebf032ce76c725f208dc6e3627d4f0"
+}
